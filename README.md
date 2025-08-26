@@ -176,7 +176,7 @@ Basic authorization = "Basic " + Base64.encode(client-id + ":" + client-secret)
 
 ### 4.10 Autorização de recursos pelo gateway Zuul
 
-### 4.11 Deixando o Postman top
+### 4.11 Configuração do postman
 
 Variáveis:
 - api-gateway: http://localhost:8765
